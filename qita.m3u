@@ -1,23 +1,7 @@
-#EXTINF:-1 group-title="其他频道",优漫卡通
-http://49.87.154.246:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",江苏城市
-http://222.185.245.194:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",江苏城市
-http://222.92.7.170:3333/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",江苏城市
-http://58.210.60.226:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",江苏综艺
-http://222.185.245.194:9901/tsfile/live/0120_4.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",江苏综艺
-http://58.220.219.14:9901/tsfile/live/0120_4.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",江苏综艺
-http://222.92.7.170:3333/tsfile/live/0120_4.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",江苏综艺
-http://58.210.60.226:9901/tsfile/live/0120_4.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",法治天地
-http://49.87.154.246:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",都市剧场
-http://49.87.154.246:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",风云剧场
-http://49.87.154.246:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",广东体育
+http://219.137.29.178:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",深圳电视剧
+http://61.141.202.118:9901/tsfile/live/0126_3.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",深圳都市
+http://61.141.202.118:9901/tsfile/live/0126_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="2024-02-25更新"
