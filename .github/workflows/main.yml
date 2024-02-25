@@ -1,43 +1,74 @@
-名称 : itvlist（信息技术列表）
+name: itvlist
 
-在 :
-日程安排 :
- -克罗 : &#39; 0 8 * * * &#39;
+on:
 
-工作 :
-建造 :
-运行 :ubuntu最新
+workflow_dispatch:
 
-步骤 :
- -名称 :签出代码
-使用 :行动/签出@v2
+inputs:
 
- -名称 :设置Python
-使用 :行动/setup-python@v2
-具有 :
-python版本 :3.x个
+input:
 
- -名称 :安装依赖项
-运行 :pip安装selenium请求futures事件
+description: "Test"
 
- -名称 :运行itv
-运行 :蟒蛇$ { { github.工作空间 } }/ITV.py公司
+required: true
 
- -名称 :运行cctv
-运行 :蟒蛇$ { { github.工作空间 } }/中央电视台.py
+default: "run" 
 
- -名称 : Run weishi跑步
-运行 :蟒蛇$ { { github.工作空间 } } /威士比
+jobs:
 
- -名称 :运行qita
-运行 :蟒蛇$ { { github.工作空间 } } /shot.py公司
+build:
 
- -名称 : Commit Changes
-运行 : |
-git config--本地用户电子邮件“mafeilong2@126.com&#34;
-git config--本地用户名“outmfl”
-git添加
-git commit*.txt-m“添加生成的文件”
-git commit*.m3u-m“添加生成的文件”
-#git pull--重新设置
-git推送-f
+runs-on: ubuntu-latest
+
+steps:
+
+- name: Checkout code
+
+uses: actions/checkout@v2
+
+- name: Set up Python
+
+uses: actions/setup-python@v2
+
+with:
+
+python-version: 3.x
+
+- name: Install dependencies
+
+run: pip install selenium requests futures eventlet
+
+- name: Run itv
+
+run: python ${{ github.workspace }}/itv.py
+
+- name: Run cctv
+
+run: python ${{ github.workspace }}/cctv.py
+
+- name: Run weishi
+
+run: python ${{ github.workspace }}/weishi.py
+
+- name: Run qita
+
+run: python ${{ github.workspace }}/qita.py
+
+- name: 提交更改
+
+run: |
+
+git config --local user.email "mafeilong2@126.com"
+
+git config --local user.name "outmfl"
+
+git add .
+
+git commit *.txt -m "Add generated file"
+
+git commit *.m3u -m "Add generated file"
+
+#git pull --rebase
+
+git push -f
+
