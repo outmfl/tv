@@ -1,12 +1,7 @@
 name: itvlist
 on:
- push:
-  schedule:
-   - name: daily_task
-     description: Run task every day at 4:00 PM
-     cron: "0 16 * * *"
-  branches:
-   - main
+   schedule:
+    - cron: '0 4 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
