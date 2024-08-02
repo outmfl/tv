@@ -2,48 +2,12 @@
 http://58.218.184.182:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",凤凰资讯
 http://221.225.236.123:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="其他频道",南平综合
-http://117.27.190.42:9998/tsfile/live/23295_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",厦门1
-http://117.27.190.42:9998/tsfile/live/23293_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",厦门2
-http://117.27.190.42:9998/tsfile/live/23294_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",宁德综合
-http://117.27.190.42:9998/tsfile/live/23296_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",平潭综合
-http://117.27.190.42:9998/tsfile/live/23299_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",江苏城市
 http://58.216.229.130:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",江苏城市
+http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道",江苏综艺
 http://58.216.229.130:9901/tsfile/live/0120_4.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",泉州综合
-http://117.27.190.42:9998/tsfile/live/23300_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",漳州综合
-http://117.27.190.42:9998/tsfile/live/23303_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",福州综合
-http://117.27.190.42:9998/tsfile/live/23301_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",福建公共
-http://117.27.190.42:9998/tsfile/live/23285_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",福建少儿
-http://117.27.190.42:9998/tsfile/live/23290_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",福建教育
-http://117.27.190.42:9998/tsfile/live/23292_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",福建文体
-http://117.27.190.42:9998/tsfile/live/23291_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",福建新闻
-http://117.27.190.42:9998/tsfile/live/23286_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",福建旅游
-http://117.27.190.42:9998/tsfile/live/23288_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",福建电视剧
-http://117.27.190.42:9998/tsfile/live/23287_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",福建经济
-http://117.27.190.42:9998/tsfile/live/23289_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",福建综合
-http://117.27.190.42:9998/tsfile/live/23284_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",莆田综合
-http://117.27.190.42:9998/tsfile/live/23302_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",金鹰纪实
-http://117.27.190.42:9998/tsfile/live/23278_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他频道",龙岩综合
-http://117.27.190.42:9998/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="2024-08-01更新"
+#EXTINF:-1 group-title="其他频道",江苏综艺
+http://58.220.219.14:9901/tsfile/live/0120_4.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="2024-08-02更新"
