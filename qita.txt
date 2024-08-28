@@ -1,8 +1,8 @@
 其他频道,#genre#
 宁德综合,http://117.27.190.42:9998/tsfile/live/23296_1.m3u8?key=txiptv&playlive=1&authid=0
 平潭综合,http://117.27.190.42:9998/tsfile/live/23299_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏城市,http://58.216.229.130:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
-江苏综艺,http://58.216.229.130:9901/tsfile/live/0120_4.m3u8?key=txiptv&playlive=1&authid=0
+江苏城市,http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv&playlive=1&authid=0
+江苏综艺,http://58.220.219.14:9901/tsfile/live/0120_4.m3u8?key=txiptv&playlive=1&authid=0
 泉州综合,http://117.27.190.42:9998/tsfile/live/23300_1.m3u8?key=txiptv&playlive=1&authid=0
 漳州综合,http://117.27.190.42:9998/tsfile/live/23303_1.m3u8?key=txiptv&playlive=1&authid=0
 福州综合,http://117.27.190.42:9998/tsfile/live/23301_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -18,4 +18,4 @@
 莆田综合,http://117.27.190.42:9998/tsfile/live/23302_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,http://117.27.190.42:9998/tsfile/live/23278_1.m3u8?key=txiptv&playlive=1&authid=0
 龙岩综合,http://117.27.190.42:9998/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0
-2024-08-27更新,#genre#
+2024-08-28更新,#genre#
