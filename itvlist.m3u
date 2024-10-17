@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://180.124.146.142:60000/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://180.124.146.142:60000/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://180.124.146.142:60000/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-#EXTINF:-1 group-title="2024-10-16更新"
+#EXTINF:-1 group-title="2024-10-17更新"
